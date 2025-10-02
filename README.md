@@ -42,11 +42,11 @@ link: https://www.ea.com/games/the-sims/the-sims-4
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage   
-  <img src="readme-images/screenshothomepage" width="375px" alt="Homepagina van The Sims 4 website met basis informatie over het spel en verschillende features en spotlights.">
+  <img src="readme-images/screenshothomepage.JPG" width="375px" alt="Homepagina van The Sims 4 website met basis informatie over het spel en verschillende features en spotlights.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Discover 
-  <img src="readme-images/screenshotdiscoverpage" width="375px" alt="Discoverpagina van The Sims 4 website met uitgelichte uitbreidingspakketten">
+  <img src="readme-images/screenshotdiscoverpage.JPG" width="375px" alt="Discoverpagina van The Sims 4 website met uitgelichte uitbreidingspakketten">
  
 </details>
 
