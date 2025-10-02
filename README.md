@@ -78,11 +78,11 @@ Images:
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownhomepageeen" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownhomepageeen.png" width="375px" alt="breakdown van de hele pagina">
 
-   <img src="readme-images/breakdownhomepagetwee" width="375px" alt="breakdown van de hele pagina">
+   <img src="readme-images/breakdownhomepagetwee.png" width="375px" alt="breakdown van de hele pagina">
 
-  <img src="readme-images/breakdownnewlyreleased" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownnewlyreleased.pngd" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/breakdownfooter.png" width="375px" alt="breakdown van een dynamisch deel">
