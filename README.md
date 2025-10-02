@@ -219,7 +219,16 @@ Agenda:
   <img src="readme-images/uitkomstwcag5.JPG" width="375px" alt="uitomst">
 
 
+Toen ik mijn website uploadde op github zag ik dat de website niet goed werkt op Safari. De footer en header zien er bijvoorbeeld zo uit: 
+ <img src="readme-images/safarifooter.png" width="375px" alt="Footer op Safari">
+<img src="readme-images/safariheader.png" width="375px" alt="Header op Safari">
+
+Een paar andere sections zien er ook niet uit zoals het hoort, maar als je de website opent op FireFox ziet het er wel goed uit. Ik vind het jammer dat het niet werkt zoals het hoort, maar ik had helaas geen tijd meer om dit op te lossen. Gelukkig werken alle functies gewoon zoals het hoort op FireFox. 
  
+Verder pakt de focus state ook niet goed op de image linkjes in mijn footer: 
+<img src="readme-images/focusfooter.png" width="375px" alt="Focus op image in de footer">
+
+Ik snap niet zo goed hoe dat komt. Ik heb het proberen op te lossen maar ik kwam er helaas niet uit. 
 </details>
 
 

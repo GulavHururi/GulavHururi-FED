@@ -724,7 +724,7 @@ section:nth-of-type(7) > div > button {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: var(--text-extrasmall);
+  font-size: var(--text-small);
   border: 1px solid var(--green-sims-color);
   border-radius: 25px;
   margin-top: 0%;
