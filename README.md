@@ -82,7 +82,7 @@ Images:
 
    <img src="readme-images/breakdownhomepagetwee.png" width="375px" alt="breakdown van de hele pagina">
 
-  <img src="readme-images/breakdownnewlyreleased.pngd" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownnewlyreleased.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/breakdownfooter.png" width="375px" alt="breakdown van een dynamisch deel">
